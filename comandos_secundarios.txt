@@ -1,1 +1,5 @@
 Este arquivo contém informções adicionais para git
+
+-- primeiros comandos
+
+-- segundos comandos
